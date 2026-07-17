@@ -1,4 +1,4 @@
-# tinygpt — a complete LLM, just a small one
+# TinyGPT — a complete LLM, just a small one
 
 This is a real GPT-style language model: same architecture as production
 LLMs, scaled down so it trains on a laptop CPU in a few minutes instead of
